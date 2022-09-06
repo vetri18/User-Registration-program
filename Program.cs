@@ -11,7 +11,7 @@ namespace TestProject
         {
             //Arrange
             UserRegi name = new UserRegi();
-            string firstName = "Vidhya";
+            string firstName = "Vetri";
             //Assert.IsTrue(name.IsValidName(firstName));
 
         }
