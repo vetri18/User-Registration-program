@@ -9,6 +9,7 @@ namespace TestProject
         //[TestMethod]
         public void CheckFirstNameValidation()
         {
+           
             //Arrange
             UserRegi name = new UserRegi();
             string firstName = "Vetri";
